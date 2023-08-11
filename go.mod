@@ -43,8 +43,8 @@ require (
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b // indirect
-	golang.org/x/sys v0.0.0-20190412213103-97732733099d // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637 // indirect
 )
